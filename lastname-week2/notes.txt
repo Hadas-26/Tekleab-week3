@@ -1,0 +1,2 @@
+These are my notes for Week 2.
+Git tracks changes to files.
